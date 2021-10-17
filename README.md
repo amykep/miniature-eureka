@@ -33,11 +33,11 @@ This application is for users who wanted to have notes to remind them of tasks t
 
 ## Screen Shots of the HTML
 Adding Notes
-![Screenshot of passing tests](./assets/images/note-taker1.png)
+![Screenshot of note adding](./public/assets/images/note-taker1.png)
 Retrieving Notes
-[Screenshot of passing tests](./assets/images/note-taker2.png)
+![Screenshot of note viewing](./public/assets/images/note-taker2.png)
 Deleting Notes
-[Screenshot of passing tests](./assets/images/note-taker3.png)
+![Screenshot of note deleting](./public/assets/images/note-taker3.png)
 
 
 ## Deployed application link
