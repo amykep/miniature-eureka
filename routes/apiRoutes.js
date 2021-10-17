@@ -47,7 +47,6 @@ router.post('/notes', (req, res) =>
 });
 
 
-
 router.delete('/notes/:id', (req, res) =>
 {
     // get the note title to delete the note
@@ -60,7 +59,7 @@ router.delete('/notes/:id', (req, res) =>
 
         // Comparing each note's id to delete note
         dbData = JSON.parse(data);
-        // for each function, comparing each note's id to the chosen_for_death variable
+
         for (let i = 0; i < dbData.length; i++)
         {
             if (dbData[i].id === deleteNote)
